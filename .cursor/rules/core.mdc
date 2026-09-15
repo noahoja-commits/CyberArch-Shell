@@ -1,0 +1,6 @@
+---
+description: Fork doctrine
+alwaysApply: true
+---
+
+Follow AGENTS.md. Extract HUD pieces. Do not run install.sh unless asked.
